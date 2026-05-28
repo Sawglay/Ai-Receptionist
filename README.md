@@ -54,9 +54,3 @@ Once running, navigate to http://localhost:8000/docs to view the interactive Swa
 
 ---
 
-## 6. Pro-Tips for Git Hygiene
-
-1. **Commit Messages:** Use Conventional Commits (e.g., `feat: add google calendar tool integration`, `fix: handle openai rate limit exception`, `docs: update readme architecture diagram`).
-2. **Branches:** Don't push everything straight to `main`. Create feature branches (`feature/voice-pipeline`, `feature/llm-agent`) and merge them via Pull Requests. It shows you know how to work in a development team.
-
-Are you planning to make this primarily a **voice-based** receptionist (over the phone/WebSockets)
